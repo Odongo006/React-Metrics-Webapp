@@ -24,7 +24,7 @@
 
 .button {
   display: flex;
-  background-color: #1E90FF;
+  background-color: #1e90ff;
   box-shadow: rgb(225, 211, 222) -1px 1px 3px 3px;
   cursor: pointer;
   width: 100px;

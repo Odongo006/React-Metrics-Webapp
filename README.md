@@ -35,9 +35,11 @@ This React capstone project is about building a mobile web application to check 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-N/A
+[Live Demo](https://odongo006.github.io/React-Metrics-Webapp/)
 
+## Project documentation <a name="live-demo"></a>
 
+Project documentation [Loom Video](https://www.loom.com/share/cd6f8b42fd27415fa3aecbbc97789d9a)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
