@@ -35,7 +35,7 @@ This React capstone project is about building a mobile web application to check 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[Live Demo](moviesgenre.netlify.app)
+[Live Demo](https://moviesgenre.netlify.app/)
 
 ## Project documentation <a name="live-demo"></a>
 
